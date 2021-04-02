@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">केवल जावा</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="order_summary_name">नाम: <xliff:g id="name" example="Soham">%s</xliff:g></string>
+    <string name="enter_name">अपना नाम दर्ज करें</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order">मंगाओ</string>
+    <string name="order_summary_wc">क्या फेटी हुई मलाई है? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">क्या चॉकलेट है? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">मात्रा: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">कीमत: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_emailsubject"><xliff:g id="name" example="Amy">%s</xliff:g> के लिये केवल जावा</string>
+    <string name="increment_error">आप 100 से अधिक कॉफ़ी नहीं खरीद सकते</string>
+    <string name="decrement_error">आप 1 से कम कॉफी नहीं खरीद सकते</string>
+
+</resources>
